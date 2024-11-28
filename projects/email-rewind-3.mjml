@@ -30,21 +30,39 @@
     </mj-section>
     <mj-section background-color="#F8F8F8" padding="10px 0 0">
       <mj-column>
-        <mj-image padding="0" width="600px" border-radius="16px" src="https://www.newsletter-rewindtelecomunicazioni.it/newsletter-manager/utilities/kcfinder-legacy/upload/images/email-rewind-2.jpg" />
+        <mj-image padding="0" width="600px" border-radius="16px" src="https://www.newsletter-rewindtelecomunicazioni.it/newsletter-manager/utilities/kcfinder-legacy/upload/images/email-rewind-3.jpg" />
       </mj-column>
     </mj-section>
     <mj-section padding="48px" background-color="#ffffff" border-radius="16px">
       <mj-column>
-        <mj-text padding="0 0 32px" font-size="36px" line-height="44px"  font-weight="bold" color="#000000"> Connessione più veloce,<br> sicura e conveniente!
+        <mj-text padding="0 0 32px" font-size="36px" line-height="44px" font-weight="bold" color="#000000">1000 Recensioni su Trustpilot curando il rapporto con ogni singolo cliente</mj-text>
+        <mj-text padding="0 0 24px" font-size="16px" line-height="24px" color="#000000">
+          Siamo entusiasti di annunciare un traguardo importante per l’azienda: abbiamo raggiunto 1000 recensioni su Trustpilot, mantenendo un eccezionale TrustScore di 4.9 su 5.
         </mj-text>
-        <mj-text padding="0 0 24px"  font-size="16px" line-height="24px" color="#000000">
-          <strong>Velocità e Affidabilità</strong>: Naviga, lavora e comunica senza interruzioni grazie alla nostra rete ultra-veloce. </mj-text>
-        <mj-text padding="0 0 24px"  font-size="16px" line-height="24px" color="#000000">
-          <strong>Supporto Clienti Dedicato</strong>: Siamo sempre disponibili per te, 24/7, per risolvere qualsiasi dubbio o esigenza. </mj-text>
-        <mj-text padding="0 0 24px"  font-size="16px" line-height="24px" color="#000000">
-          <strong>Pacchetti Personalizzati</strong>: Trova il piano perfetto per le tue necessità, con tariffe competitive e flessibili. </mj-text>
-        <mj-text padding="0 0 24px"  font-size="16px" line-height="24px" color="#000000">
-          <strong>Offerta Limitata</strong>: Attiva oggi un piano con uno sconto del XX% per i primi 6 mesi! </mj-text>
+        <mj-text padding="0 0 24px" font-size="16px" line-height="24px" color="#000000">
+          Questo risultato è il frutto di un percorso cominciato nel 2020, in piena pandemia, quando abbiamo scelto di lanciare una sfida ambiziosa e non priva di rischi, soprattutto per un’azienda del settore telecomunicazioni.
+        </mj-text>
+        <mj-text padding="0 0 24px" font-size="16px" line-height="24px" color="#000000">
+          Sin dall’inizio, abbiamo avuto un obiettivo chiaro: costruire un rapporto di fiducia e trasparenza con i nostri clienti.
+        </mj-text>
+        <mj-text padding="0 0 24px" font-size="16px" line-height="24px" color="#000000">
+          Per questo, abbiamo deciso di puntare sulle persone, incoraggiando i nostri agenti di commercio a raccogliere feedback reali dai clienti con cui interagiscono ogni giorno.
+        </mj-text>
+        <mj-text padding="0 0 24px" font-size="16px" line-height="24px" color="#000000">
+          Le loro recensioni non sono solo testimonianze del lavoro svolto, ma anche un riflesso del legame che siamo riusciti a costruire con i nostri clienti, un rapporto fatto di ascolto, territorialità e supporto.
+        </mj-text>
+        <mj-text padding="0 0 24px" font-size="16px" line-height="24px" color="#000000">
+          Il nostro approccio ha portato non solo alla raccolta di recensioni, ma anche a un riconoscimento speciale da parte di Trustpilot, che nel 2022 ci ha scelti come case study di successo: qui di il link all’articolo.
+        </mj-text>
+        <mj-text padding="0 0 24px" font-size="16px" line-height="24px" color="#000000">
+          Questo ci rende particolarmente orgogliosi, poiché testimonia la validità del nostro metodo e la forza dei nostri valori aziendali.
+        </mj-text>
+        <mj-text padding="0 0 24px" font-size="16px" line-height="24px" color="#000000">
+          Questo traguardo è per noi solo una tappa: vogliamo continuare a migliorare, ascoltando più feedback possibile e puntando sempre più in alto.
+        </mj-text>
+        <mj-text padding="0 0 24px" font-size="16px" line-height="24px" color="#000000">
+          Un ringraziamento speciale va a tutti i nostri clienti e ai nostri agenti, che hanno reso possibile questo successo.
+        </mj-text>
         <mj-button padding="0 0 32px"  font-size="16px" font-weight="bold" height="50px" border-radius="50px" background-color="#F45E43" href="https://www.rewindtelecomunicazioni.it/" align="left" target="_blank">Scopri di più</mj-button>
         <mj-divider padding="0 0 32px" border-width="1px" border-style="solid" border-color="#0000000d" />
         <mj-text padding="0 0 16px"  font-size="12px" line-height="16px" color="#000000">
@@ -64,13 +82,13 @@
           <img src="https://www.newsletter-rewindtelecomunicazioni.it/newsletter-manager/utilities/kcfinder-legacy/upload/images/phone.png" alt="Phone" width="16" style="padding-right: 8px;" />
           <a href="tel:800 66 80 80" target="_blank" style="font-family: Arial; font-size: 32px; font-weight: bold; color: #00BD65; text-decoration: none;letter-spacing: -0.96px;">800 66 80 80</a>
         </mj-text>
-        <mj-text padding="0 0 8px"  font-size="12px" line-height="16px" color="#000000">
+        <mj-text padding="0 0 8px" font-size="12px" line-height="16px" color="#000000">
           rewindtelecomunicazioni.it
         </mj-text>
-        <mj-text padding="0 0 8px"  font-size="12px" line-height="16px" color="#000000">
+        <mj-text padding="0 0 8px" font-size="12px" line-height="16px" color="#000000">
           info@rewindmail.it
         </mj-text>
-        <mj-text padding="0 0 8px"  font-size="12px" line-height="16px" color="#000000">
+        <mj-text padding="0 0 8px" font-size="12px" line-height="16px" color="#000000">
           Via Fratelli Cervi 80, 42124 Reggio Emilia
         </mj-text>
       </mj-column>

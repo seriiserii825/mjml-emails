@@ -51,7 +51,7 @@
           Ricevi questa email perché sei un cliente di Rewind Telecomunicazioni o hai espresso interesse per i nostri servizi.
         </mj-text>
         <mj-text padding="0"  font-size="12px" line-height="16px" color="#000000">
-          Se non desideri ricevere altre comunicazioni, clicca qui per disiscriverti.
+          Se non desideri ricevere altre comunicazioni, <a href="#" style="color: inherit;">clicca qui per disiscriverti</a>.
         </mj-text>
       </mj-column>
     </mj-section>
