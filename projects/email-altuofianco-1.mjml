@@ -5,26 +5,7 @@
   </mj-attributes>
   <mj-body width="600px" background-color="#F8F8F8">
     <!-- Header Section -->
-    <mj-section background-color="#F8F8F8" padding="10px 0">
-      <!-- Logo Column -->
-      <mj-column width="50%">
-        <mj-image padding-left="0" width="150px" src="https://www.newsletter-rewindtelecomunicazioni.it/newsletter-manager/utilities/kcfinder-legacy/upload/images/altuofianco-logo.png" href="https://www.rewindtelecomunicazioni.it/" alt="Rewind Logo" align="left" />
-      </mj-column>
-      <!-- Social Icons Column -->
-      <mj-column padding-top="12px" width="50%" vertical-align="middle">
-        <mj-text align="right" font-size="0px" padding="0">
-          <a href="https://www.linkedin.com/company/altuofiancosrl/mycompany/" target="_blank" style="margin-left:16px;">
-            <img src="https://www.newsletter-rewindtelecomunicazioni.it/newsletter-manager/utilities/kcfinder-legacy/upload/images/linkedin.png" alt="LinkedIn" width="16px" style="vertical-align:middle;" />
-          </a>
-          <a href="https://www.facebook.com/altuofiancosrl" target="_blank" style="margin-left:16px;">
-            <img src="https://www.newsletter-rewindtelecomunicazioni.it/newsletter-manager/utilities/kcfinder-legacy/upload/images/facebook.png" alt="Facebook" width="16px" style="vertical-align:middle;" />
-          </a>
-          <a href="https://www.instagram.com/altuofianco.it/" target="_blank" style="margin-left:16px;">
-            <img src="https://www.newsletter-rewindtelecomunicazioni.it/newsletter-manager/utilities/kcfinder-legacy/upload/images/instagram.png" alt="Instagram" width="16px" style="vertical-align:middle;" />
-          </a>
-        </mj-text>
-      </mj-column>
-    </mj-section>
+    <mj-include path="../blocks/altuofianco-header.mjml" />
     <mj-section background-color="#F8F8F8" padding="10px 0 0">
       <mj-column>
         <mj-image padding="0" width="600px" border-radius="16px" src="https://www.newsletter-rewindtelecomunicazioni.it/newsletter-manager/utilities/kcfinder-legacy/upload/images/email-altuofianco-1.jpg" />

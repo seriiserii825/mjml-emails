@@ -1,0 +1,35 @@
+<mjml>
+  <mj-attributes>
+    <!-- укажем шрифт по-умолчанию -->
+    <mj-all font-family="Arial" />
+  </mj-attributes>
+  <mj-body width="600px" background-color="#F8F8F8">
+    <mj-section background-color="#F8F8F8" padding="10px 0">
+      <!-- Logo Column -->
+      <mj-column width="50%">
+        <mj-image padding-left="0" width="150px" src="https://www.newsletter-rewindtelecomunicazioni.it/newsletter-manager/utilities/kcfinder-legacy/upload/images/altuofianco.png" href="https://www.rewindtelecomunicazioni.it/" alt="Rewind Logo" align="left" />
+      </mj-column>
+      <mj-column width="50%">
+        <mj-image padding-left="0" align="right" width="150px" src="https://www.newsletter-rewindtelecomunicazioni.it/newsletter-manager/utilities/kcfinder-legacy/upload/images/altuofianco-logo.png" href="https://www.altuofianco.it/" alt="Rewind Logo" />
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#F8F8F8" padding="10px 0 0">
+      <mj-column>
+        <mj-image padding="0" width="600px" border-radius="16px" src="https://www.newsletter-rewindtelecomunicazioni.it/newsletter-manager/utilities/kcfinder-legacy/upload/images/email-rewind-altuofianco.jpg" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="48px" background-color="#ffffff" border-radius="16px">
+      <mj-column>
+        <mj-include path="../blocks/intro-title.mjml" />
+        <mj-include path="../blocks/intro-text.mjml" />
+        <mj-button padding="0 0 32px" font-size="16px" font-weight="bold" height="50px" border-radius="50px" background-color="#0A4D57" href="https://www.rewindtelecomunicazioni.it/" align="left" target="_blank">Scopri di più</mj-button>
+        <mj-include path="../blocks/divider.mjml" />
+        <mj-include path="../blocks/description.mjml" />
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="10px" />
+    <mj-include path="../blocks/rewind-footer-socials.mjml" />
+    <mj-spacer height="10px" />
+    <mj-include path="../blocks/altuofianco-footer-socials.mjml" />
+  </mj-body>
+</mjml>

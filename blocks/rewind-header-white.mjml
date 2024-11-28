@@ -1,0 +1,23 @@
+<mj-section background-color="#ffffff" padding="0 0 10px">
+  <!-- Logo Column -->
+  <mj-column width="50%">
+    <mj-image padding-left="0" width="150px" src="https://www.newsletter-rewindtelecomunicazioni.it/newsletter-manager/utilities/kcfinder-legacy/upload/images/altuofianco.png" href="https://www.rewindtelecomunicazioni.it/" alt="Rewind Logo" align="left" />
+  </mj-column>
+  <!-- Social Icons Column -->
+  <mj-column padding-top="12px" width="50%" vertical-align="middle">
+    <mj-text align="right" font-size="0px" padding="0">
+      <a href="https://wa.me/00393891686121" target="_blank" style="margin-left:16px;">
+        <img src="https://www.newsletter-rewindtelecomunicazioni.it/newsletter-manager/utilities/kcfinder-legacy/upload/images/whatsapp.png" alt="WhatsApp" width="16px" style="vertical-align:middle;" />
+      </a>
+      <a href="https://www.linkedin.com/company/rewind/" target="_blank" style="margin-left:16px;">
+        <img src="https://www.newsletter-rewindtelecomunicazioni.it/newsletter-manager/utilities/kcfinder-legacy/upload/images/linkedin.png" alt="LinkedIn" width="16px" style="vertical-align:middle;" />
+      </a>
+      <a href="https://www.facebook.com/rewindsrl" target="_blank" style="margin-left:16px;">
+        <img src="https://www.newsletter-rewindtelecomunicazioni.it/newsletter-manager/utilities/kcfinder-legacy/upload/images/facebook.png" alt="Facebook" width="16px" style="vertical-align:middle;" />
+      </a>
+      <a href="https://www.instagram.com/rewindtelecomunicazioni.it/" target="_blank" style="margin-left:16px;">
+        <img src="https://www.newsletter-rewindtelecomunicazioni.it/newsletter-manager/utilities/kcfinder-legacy/upload/images/instagram.png" alt="Instagram" width="16px" style="vertical-align:middle;" />
+      </a>
+    </mj-text>
+  </mj-column>
+</mj-section>
