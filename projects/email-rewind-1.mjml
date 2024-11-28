@@ -4,30 +4,7 @@
     <mj-all font-family="Arial" />
   </mj-attributes>
   <mj-body width="600px" background-color="#F8F8F8">
-    <!-- Header Section -->
-    <mj-section background-color="#F8F8F8" padding="10px 0">
-      <!-- Logo Column -->
-      <mj-column width="50%">
-        <mj-image padding-left="0" width="150px" src="https://www.newsletter-rewindtelecomunicazioni.it/newsletter-manager/utilities/kcfinder-legacy/upload/images/altuofianco.png" href="https://www.rewindtelecomunicazioni.it/" alt="Rewind Logo" align="left" />
-      </mj-column>
-      <!-- Social Icons Column -->
-      <mj-column padding-top="12px" width="50%" vertical-align="middle">
-        <mj-text align="right" font-size="0px" padding="0">
-          <a href="https://wa.me/00393891686121" target="_blank" style="margin-left:16px;">
-            <img src="https://www.newsletter-rewindtelecomunicazioni.it/newsletter-manager/utilities/kcfinder-legacy/upload/images/whatsapp.png" alt="WhatsApp" width="16px" style="vertical-align:middle;" />
-          </a>
-          <a href="https://www.linkedin.com/company/rewind/" target="_blank" style="margin-left:16px;">
-            <img src="https://www.newsletter-rewindtelecomunicazioni.it/newsletter-manager/utilities/kcfinder-legacy/upload/images/linkedin.png" alt="LinkedIn" width="16px" style="vertical-align:middle;" />
-          </a>
-          <a href="https://www.facebook.com/rewindsrl" target="_blank" style="margin-left:16px;">
-            <img src="https://www.newsletter-rewindtelecomunicazioni.it/newsletter-manager/utilities/kcfinder-legacy/upload/images/facebook.png" alt="Facebook" width="16px" style="vertical-align:middle;" />
-          </a>
-          <a href="https://www.instagram.com/rewindtelecomunicazioni.it/" target="_blank" style="margin-left:16px;">
-            <img src="https://www.newsletter-rewindtelecomunicazioni.it/newsletter-manager/utilities/kcfinder-legacy/upload/images/instagram.png" alt="Instagram" width="16px" style="vertical-align:middle;" />
-          </a>
-        </mj-text>
-      </mj-column>
-    </mj-section>
+    <mj-include path="../blocks/rewind-header.mjml" />
     <mj-section background-color="#F8F8F8" padding="10px 0 0">
       <mj-column>
         <mj-image padding="0" width="600px" border-radius="16px" src="https://www.newsletter-rewindtelecomunicazioni.it/newsletter-manager/utilities/kcfinder-legacy/upload/images/email-rewind-1.jpg" />
@@ -35,42 +12,39 @@
     </mj-section>
     <mj-section padding="48px" background-color="#ffffff" border-radius="16px">
       <mj-column>
-        <mj-text padding="0 0 32px" font-size="36px" line-height="44px"  font-weight="bold" color="#000000"> Connessione più veloce,<br> sicura e conveniente!
-        </mj-text>
-        <mj-text padding="0 0 24px"  font-size="16px" line-height="24px" color="#000000">
+        <mj-include path="../blocks/intro-title.mjml" />
+        <mj-text padding="0 0 24px" font-size="16px" line-height="24px" color="#000000">
           <strong>Velocità e Affidabilità</strong>: Naviga, lavora e comunica senza interruzioni grazie alla nostra rete ultra-veloce. </mj-text>
-        <mj-text padding="0 0 24px"  font-size="16px" line-height="24px" color="#000000">
+        <mj-text padding="0 0 24px" font-size="16px" line-height="24px" color="#000000">
           <strong>Supporto Clienti Dedicato</strong>: Siamo sempre disponibili per te, 24/7, per risolvere qualsiasi dubbio o esigenza. </mj-text>
-        <mj-text padding="0 0 24px"  font-size="16px" line-height="24px" color="#000000">
+        <mj-text padding="0 0 24px" font-size="16px" line-height="24px" color="#000000">
           <strong>Pacchetti Personalizzati</strong>: Trova il piano perfetto per le tue necessità, con tariffe competitive e flessibili. </mj-text>
-        <mj-text padding="0 0 24px"  font-size="16px" line-height="24px" color="#000000">
+        <mj-text padding="0 0 24px" font-size="16px" line-height="24px" color="#000000">
           <strong>Offerta Limitata</strong>: Attiva oggi un piano con uno sconto del XX% per i primi 6 mesi! </mj-text>
-        <mj-button padding="0 0 32px"  font-size="16px" font-weight="bold" height="50px" border-radius="50px" background-color="#F45E43" href="https://www.rewindtelecomunicazioni.it/" align="left" target="_blank">Scopri di più</mj-button>
-        <mj-divider padding="0 0 32px" border-width="1px" border-style="solid" border-color="#0000000d" />
-        <mj-text padding="0 0 16px"  font-size="12px" line-height="16px" color="#000000">
+        <mj-button padding="0 0 32px" font-size="16px" font-weight="bold" height="50px" border-radius="50px" background-color="#F45E43" href="https://www.rewindtelecomunicazioni.it/" align="left" target="_blank">Scopri di più</mj-button>
+        <mj-divider padding="0 0 32px" border-width="1px" border-style="solid" border-color="#F2F2F2" />
+        <mj-text padding="0 0 16px" font-size="12px" line-height="16px" color="#000000">
           Ricevi questa email perché sei un cliente di Rewind Telecomunicazioni o hai espresso interesse per i nostri servizi.
         </mj-text>
-        <mj-text padding="0"  font-size="12px" line-height="16px" color="#000000">
-          Se non desideri ricevere altre comunicazioni, <a href="#" style="color: inherit;">clicca qui per disiscriverti</a>.
-        </mj-text>
+        <mj-text padding="0" font-size="12px" line-height="16px" color="#000000"> Se non desideri ricevere altre comunicazioni, <a href="#" style="color: inherit;">clicca qui per disiscriverti</a>. </mj-text>
+        <mj-spacer height="10px" />
       </mj-column>
     </mj-section>
-    <mj-spacer height="10px" />
     <mj-section background-color="#ffffff" padding="48px" border-radius="16px">
       <mj-column>
         <mj-image padding="0 0 32px" width="150px" src="https://www.newsletter-rewindtelecomunicazioni.it/newsletter-manager/utilities/kcfinder-legacy/upload/images/altuofianco.png" href="https://www.rewindtelecomunicazioni.it/" alt="Rewind Logo" align="left" />
-        <mj-divider padding="0 0 16px" border-width="1px" border-style="solid" border-color="#0000000d" />
+        <mj-divider padding="0 0 16px" border-width="1px" border-style="solid" border-color="#F2F2F2" />
         <mj-text padding="0 0 8px">
           <img src="https://www.newsletter-rewindtelecomunicazioni.it/newsletter-manager/utilities/kcfinder-legacy/upload/images/phone.png" alt="Phone" width="16" style="padding-right: 8px;" />
           <a href="tel:800 66 80 80" target="_blank" style="font-family: Arial; font-size: 32px; font-weight: bold; color: #00BD65; text-decoration: none;letter-spacing: -0.96px;">800 66 80 80</a>
         </mj-text>
-        <mj-text padding="0 0 8px"  font-size="12px" line-height="16px" color="#000000">
+        <mj-text padding="0 0 8px" font-size="12px" line-height="16px" color="#000000">
           rewindtelecomunicazioni.it
         </mj-text>
-        <mj-text padding="0 0 8px"  font-size="12px" line-height="16px" color="#000000">
+        <mj-text padding="0 0 8px" font-size="12px" line-height="16px" color="#000000">
           info@rewindmail.it
         </mj-text>
-        <mj-text padding="0 0 8px"  font-size="12px" line-height="16px" color="#000000">
+        <mj-text padding="0 0 8px" font-size="12px" line-height="16px" color="#000000">
           Via Fratelli Cervi 80, 42124 Reggio Emilia
         </mj-text>
       </mj-column>

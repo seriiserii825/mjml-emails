@@ -1,4 +1,3 @@
 <mjml>
-  <mj-include path="projects/email-altuofianco-1.mjml" />
-  <!-- <mj-include path="projects/default.mjml" /> -->
+  <mj-include path="projects/email-rewind-1.mjml" />
 </mjml>
