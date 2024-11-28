@@ -7,7 +7,7 @@
     <mj-include path="../blocks/rewind-header.mjml" />
     <mj-section background-color="#F8F8F8" padding="10px 0 0">
       <mj-column>
-        <mj-image padding="0" width="600px" border-radius="16px" src="https://www.newsletter-rewindtelecomunicazioni.it/newsletter-manager/utilities/kcfinder-legacy/upload/images/email-rewind-1.jpg" />
+        <mj-image padding="0" width="600px" border-radius="16px" src="https://www.newsletter-rewindtelecomunicazioni.it/newsletter-manager/utilities/kcfinder-legacy/upload/images/email-rewind_1.jpg" />
       </mj-column>
     </mj-section>
     <mj-section padding="48px" background-color="#ffffff" border-radius="16px">
