@@ -4,12 +4,17 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "concurrently \"./node_modules/.bin/mjml --watch index.mjml -o index.html\" \"vite\""
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "mjml": "^4.15.3"
+    "mjml": "^4.15.3",
+    "vite": "^6.0.1"
+  },
+  "devDependencies": {
+    "concurrently": "^9.1.0"
   }
 }
