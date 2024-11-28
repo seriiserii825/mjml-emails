@@ -14,14 +14,12 @@
       <mj-column>
         <mj-include path="../blocks/intro-title.mjml" />
         <mj-include path="../blocks/intro-text.mjml" />
-        <mj-button padding="0 0 32px" font-size="16px" font-weight="bold" height="50px" border-radius="50px" background-color="#0A4D57" href="https://www.rewindtelecomunicazioni.it/" align="left" target="_blank">Scopri di più</mj-button>
+        <mj-button padding="0 0 32px" font-size="16px" font-weight="bold" height="50px" border-radius="50px" background-color="#FA6100" href="https://www.rewindtelecomunicazioni.it/" align="left" target="_blank">Scopri di più</mj-button>
         <mj-include path="../blocks/divider.mjml" />
         <mj-include path="../blocks/description.mjml" />
       </mj-column>
     </mj-section>
     <mj-spacer height="10px" />
     <mj-include path="../blocks/rewind-footer.mjml" />
-    <mj-spacer height="10px" />
-    <mj-include path="../blocks/altuofianco-footer.mjml" />
   </mj-body>
 </mjml>
