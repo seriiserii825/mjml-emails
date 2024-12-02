@@ -1,7 +1,7 @@
 <mj-section background-color="#ffffff" padding="0 0 10px">
   <!-- Logo Column -->
   <mj-column width="50%">
-    <mj-image padding-left="0" width="150px" src="https://www.newsletter-rewindtelecomunicazioni.it/newsletter-manager/utilities/kcfinder-legacy/upload/images/altuofianco.png" href="https://www.rewindtelecomunicazioni.it/" alt="Rewind Logo" align="left" />
+    <mj-image padding-left="0" width="118px" src="https://www.newsletter-rewindtelecomunicazioni.it/newsletter-manager/utilities/kcfinder-legacy/upload/images/altuofianco.png" href="https://www.rewindtelecomunicazioni.it/" alt="Rewind Logo" align="left" />
   </mj-column>
   <!-- Social Icons Column -->
   <mj-column padding-top="12px" width="50%" vertical-align="middle">

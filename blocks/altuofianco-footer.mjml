@@ -1,6 +1,6 @@
 <mj-section background-color="#ffffff" padding="48px" border-radius="16px">
   <mj-column>
-    <mj-image padding="0 0 32px" width="150px" src="https://www.newsletter-rewindtelecomunicazioni.it/newsletter-manager/utilities/kcfinder-legacy/upload/images/altuofianco-logo.png" href="https://www.rewindtelecomunicazioni.it/" alt="Rewind Logo" align="left" />
+    <mj-image padding="0 0 32px" width="118px" src="https://www.newsletter-rewindtelecomunicazioni.it/newsletter-manager/utilities/kcfinder-legacy/upload/images/altuofianco-logo.png" href="https://www.rewindtelecomunicazioni.it/" alt="Rewind Logo" align="left" />
     <mj-divider padding="0 0 16px" border-width="1px" border-style="solid" border-color="#0000000d" />
     <mj-text padding="0 0 8px">
       <img src="https://www.newsletter-rewindtelecomunicazioni.it/newsletter-manager/utilities/kcfinder-legacy/upload/images/phone.png" alt="Phone" width="16" style="padding-right: 8px;" />
