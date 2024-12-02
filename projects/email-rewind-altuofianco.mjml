@@ -7,10 +7,10 @@
     <mj-section background-color="#F8F8F8" padding="10px 0">
       <!-- Logo Column -->
       <mj-column width="50%">
-        <mj-image padding-left="0" width="150px" src="https://www.newsletter-rewindtelecomunicazioni.it/newsletter-manager/utilities/kcfinder-legacy/upload/images/altuofianco.png" href="https://www.rewindtelecomunicazioni.it/" alt="Rewind Logo" align="left" />
+        <mj-image padding-left="0" width="118px" src="https://www.newsletter-rewindtelecomunicazioni.it/newsletter-manager/utilities/kcfinder-legacy/upload/images/altuofianco.png" href="https://www.rewindtelecomunicazioni.it/" alt="Rewind Logo" align="left" />
       </mj-column>
       <mj-column width="50%">
-        <mj-image padding-left="0" align="right" width="150px" src="https://www.newsletter-rewindtelecomunicazioni.it/newsletter-manager/utilities/kcfinder-legacy/upload/images/altuofianco-logo.png" href="https://www.altuofianco.it/" alt="Rewind Logo" />
+        <mj-image padding-left="0" align="right" width="118px" src="https://www.newsletter-rewindtelecomunicazioni.it/newsletter-manager/utilities/kcfinder-legacy/upload/images/altuofianco-logo.png" href="https://www.altuofianco.it/" alt="Rewind Logo" />
       </mj-column>
     </mj-section>
     <mj-section background-color="#F8F8F8" padding="10px 0 0">
